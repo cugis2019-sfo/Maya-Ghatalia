@@ -34,3 +34,26 @@ def name(a):
     print("Hello",a,",welcome!")
     
 name("Maya")
+
+def cubicroot(a):
+    cubicroot = a**(1/3)
+    
+    print("The cubic root of",a,"is",cubicroot,)
+    
+def variable(t):
+    
+    print("The number",t,"is represented as t")
+    
+    variable = t**(1/3)
+
+    print ("The cubic root of",t,"is"variable)
+    
+t(27)
+
+def select(k):
+    select = k
+    print("select a number")
+    select("Please slelect a number")
+    
+    
+k=16
